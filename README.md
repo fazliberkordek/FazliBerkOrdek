@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fazlı Berk</h1>
-<h3 align="center">A passionate Researcher and Software Engineer. -Working on neutrino experiments; ANNIE at Fermilab. -Doing Physics analysis and neutron analysis for ANNIE. -Developing Software and Artificial Intelligence application for ANNIE experiment as a software engineer and researcher. -Home Institution: Erciyes University</h3>
+<h3 align="center">A passionate Researcher and Software Engineer. -Working on neutrino experiments; ANNIE at Fermilab. -Doing Physics analysis and neutron analysis for ANNIE. -Developing Software and Artificial Intelligence application for ANNIE experiment as a software engineer and researcher. -Home Institution: Erciyes University.Also I am graduate student researcher at Erciyes Neutrino Research Group. The ENRG is an official collaborator of ANNIE and NOvA neutrino experiments at Fermi National Accelerator Laboratory (Fermilab) in the US. We are actively doing physics analysis and neutron simulation studies for ANNIE and NOvA experiments. In addition, we are running a detector R&D program for ANNIE and other neutrino experiments around the world.</h3>
 
 - 🔭 I’m currently working on **ANNIE Experiment at Fermilab**
 
