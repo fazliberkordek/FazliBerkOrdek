@@ -1,4 +1,6 @@
-# 💫 About Me:
+# ⚓️  About ℉ℬ 🐱:
+Greetings  Visitor!
+
 This is Fazlı Berk Ördek; 
 As an Electrical and Electronics Engineer and Master student in Physics, I am keen to hone my skills as a researcher and ultimately contribute to tangible developments in Science. I have constantly sought opportunities to advance myself professionally, and believe I can ask and perhaps more importantly, recognise the right questions we need to be asking in order to further our progress in this niche and vast field.
 
