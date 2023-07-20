@@ -1,8 +1,19 @@
 # ⚓️  About ℉ℬ 🐱:
 Greetings  Visitor!
 
+
+
+
+[Onigiri](https://github.com/fazliberkordek/FazliBerkOrdek/assets/76954796/aa27fc20-e53f-4df4-afd1-cead1a5b49eb)
+
+
+
+
+
+
 This is Fazlı Berk Ördek; 
 As an Electrical and Electronics Engineer and Master student in Physics, I am keen to hone my skills as a researcher and ultimately contribute to tangible developments in Science and Technology. I have constantly sought opportunities to advance myself professionally, and believe I can ask and perhaps more importantly, recognise the right questions we need to be asking in order to further our progress in this niche and vast field.
+
 
 - A passionate Researcher and Software Engineer. 
 - Working on neutrino experiments; ANNIE at Fermilab.
