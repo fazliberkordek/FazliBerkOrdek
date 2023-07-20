@@ -1,5 +1,12 @@
 # 💫 About Me:
-A passionate Researcher and Software Engineer. -Working on neutrino experiments; ANNIE at Fermilab. -Doing Physics analysis and neutron analysis for ANNIE. -Developing Software and Artificial Intelligence application for ANNIE experiment as a software engineer and researcher. -Home Institution: Erciyes University.
+This is Fazlı Berk Ördek; 
+As an Electrical and Electronics Engineer and Master student in Physics, I am keen to hone my skills as a researcher and ultimately contribute to tangible developments in Science. I have constantly sought opportunities to advance myself professionally, and believe I can ask and perhaps more importantly, recognise the right questions we need to be asking in order to further our progress in this niche and vast field.
+
+- A passionate Researcher and Software Engineer. 
+- Working on neutrino experiments; ANNIE at Fermilab.
+- Doing Physics  data analysis and neutron analysis for ANNIE. 
+- Developing Software and Artificial Intelligence application for ANNIE experiment as a software engineer and researcher.
+- Home Institution: Erciyes University.
 
 
 ## 🌐 Socials:
