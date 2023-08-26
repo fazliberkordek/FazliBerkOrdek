@@ -11,16 +11,19 @@ Greetings  Visitor!
 
 
 
-This is Fazlı Berk Ördek; 
-As an Electrical and Electronics Engineer and Master student in Physics, I am keen to hone my skills as a researcher and ultimately contribute to tangible developments in Science and Technology. I have constantly sought opportunities to advance myself professionally, and believe I can ask and perhaps more importantly, recognise the right questions we need to be asking in order to further our progress in this niche and vast field.
+This is Fazlı Berk Ördek, an Electrical and Electronics Engineer and a Master's student in Physics. My primary goal is to refine my skills as a researcher and make substantial contributions to the advancements in Science and Technology. Throughout my academic journey, I have consistently pursued opportunities to enhance my professional growth. Importantly, I possess the ability not only to ask pertinent questions but also to recognize the crucial inquiries that can drive progress in this expansive and specialized field.
 
+Beyond my academic pursuits, I am deeply passionate about research and am concurrently engaged as a Full Stack Software Engineer freelancer. This dual interest has led me to specialize in two major disciplines:
 
-- A passionate Researcher and Software Engineer. 
-- Working on neutrino experiments; ANNIE at Fermilab.
-- Doing Physics  data analysis and neutron analysis for ANNIE. 
-- Developing Software and Artificial Intelligence application for ANNIE experiment as a software engineer and researcher.
-- Home Institution: Erciyes University.  <img src="https://hatscripts.github.io/circle-flags/flags/tr.svg" width="19">
-- Second Institution : Batavia, Illinois, United States of America <img src="https://hatscripts.github.io/circle-flags/flags/us.svg" width="19">
+1) Researcher-Scientist:
+Specifically, I am actively involved in the ANNIE experiment at Fermilab. Within this context, I conduct data analysis for physics-related aspects as well as neutron analysis for ANNIE. Furthermore, I contribute to the development of software and DLLN applications intended for the Phase 2 of the ANNIE experiment.
+
+2) Full Stack Software Engineering Freelancing:
+I have also established myself as a skilled Full Stack Software Engineer, taking on freelance projects. Notably, I was both a fellow and intern in the Google Turkey OVUA program. In this capacity, I designed and developed cross-platform mobile and web applications, with a particular focus on the various industries.
+
+   
+  
+  
 
 
 ## 🌐 Socials:
