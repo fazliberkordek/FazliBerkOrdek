@@ -15,7 +15,7 @@ This is Fazlı Berk Ördek, an Electrical and Electronics Engineer and a Master'
 
 Beyond my academic pursuits, I am deeply passionate about research and am concurrently engaged as a Full Stack Software Engineer freelancer. This dual interest has led me to specialize in two major disciplines:
 
-1) Researcher-Scientist:
+1) Gradute Researcher-Scientist:
 Specifically, I am actively involved in the ANNIE experiment at Fermilab. Within this context, I conduct data analysis for physics-related aspects as well as neutron analysis for ANNIE. Furthermore, I contribute to the development of software and DLLN applications intended for the Phase 2 of the ANNIE experiment.
 
 2) Full Stack Software Engineering Freelancing:
