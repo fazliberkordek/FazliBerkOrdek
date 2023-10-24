@@ -18,8 +18,8 @@ Beyond my academic pursuits, I am deeply passionate about research and am concur
 1) Gradute Researcher-Scientist:
 Specifically, I am actively involved in the ANNIE experiment at Fermilab. Within this context, I conduct data analysis for physics-related aspects as well as neutron analysis for ANNIE. Furthermore, I contribute to the development of software and DLLN applications intended for the Phase 2 of the ANNIE experiment.
 
-2) Full Stack Software Engineering Freelancing:
-I have also established myself as a skilled Full Stack Software Engineer, taking on freelance projects. Notably, I was both a fellow and intern in the Google Turkey OVUA program. In this capacity, I designed and developed cross-platform mobile and web applications, with a particular focus on the various industries.
+2) Full Stack Software Engineering :
+I have also established myself as a skilled Full Stack Software Engineer. Notably, I was both a fellow and Software Engineer in the Google Turkey OVUA program. In this capacity, I designed and developed cross-platform mobile and web applications, with a particular focus on the various industries.
 
    
   
