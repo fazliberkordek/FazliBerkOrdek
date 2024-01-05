@@ -31,7 +31,6 @@ I have also established myself as a skilled Full Stack Software Engineer. Notabl
 - 📫 How to reach me **fazliberk@nomu.company**
 - 📫 How to reach me **fbordek@fnal.gov**
 - 📫 How to reach me **berkordek97@gmail.com**
-- 
   
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
