@@ -30,4 +30,4 @@ This is Fazlı Berk Ördek, an Software Engineer. My primary goal is to refine m
 
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
