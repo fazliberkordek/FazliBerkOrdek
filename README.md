@@ -20,8 +20,6 @@ This is Fazlı Berk Ördek, an Software Engineer. My primary goal is to refine m
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fazli-berk-ordek) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/FobkRed) 
-- 📫 How to reach me **fazliberk@nomu.company**
-- 📫 How to reach me **fbordek@fnal.gov**
 - 📫 How to reach me **berkordek97@gmail.com**
   
 ### ✍️ Random Dev Quote
