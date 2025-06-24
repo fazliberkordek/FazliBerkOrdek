@@ -1,4 +1,4 @@
-# ⚓️  About ℉ℬ 🐱:
+# ⚓️  About Me:
 Greetings  Visitor!
 
 
