@@ -1,5 +1,4 @@
-# ⚓️  About Me:
-Greetings  Visitor!
+# ⚓️ Greetings  Visitor!
 
 
 
